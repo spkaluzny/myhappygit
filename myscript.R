@@ -1,3 +1,10 @@
+#' ---
+#' title: "Sample R Scripts - Can Be Rendered"
+#' author: "Stephen Kaluzny"
+#' date: "August 14, 2020"
+#' output: github_document
+#' ---
+#'
 #' Here's some prose in a very special comment. Let's summarize the built-in
 #' dataset `VADeaths`.
 ## here is a regular code comment, that will remain as such
